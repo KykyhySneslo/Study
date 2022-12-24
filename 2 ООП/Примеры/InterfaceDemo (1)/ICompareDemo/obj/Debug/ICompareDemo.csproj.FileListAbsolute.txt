@@ -1,0 +1,6 @@
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\InterfaceDemo\ICompareDemo\bin\Debug\ICompareDemo.exe.config
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\InterfaceDemo\ICompareDemo\bin\Debug\ICompareDemo.exe
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\InterfaceDemo\ICompareDemo\bin\Debug\ICompareDemo.pdb
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\InterfaceDemo\ICompareDemo\obj\Debug\ICompareDemo.csprojResolveAssemblyReference.cache
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\InterfaceDemo\ICompareDemo\obj\Debug\ICompareDemo.exe
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\InterfaceDemo\ICompareDemo\obj\Debug\ICompareDemo.pdb

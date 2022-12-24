@@ -1,0 +1,30 @@
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\bin\Debug\net6.0\lamdaDemo.exe
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\bin\Debug\net6.0\lamdaDemo.deps.json
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\bin\Debug\net6.0\lamdaDemo.runtimeconfig.json
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\bin\Debug\net6.0\lamdaDemo.dll
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\bin\Debug\net6.0\lamdaDemo.pdb
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\lamdaDemo.csproj.AssemblyReference.cache
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\lamdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\lamdaDemo.AssemblyInfoInputs.cache
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\lamdaDemo.AssemblyInfo.cs
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\lamdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\lamdaDemo.dll
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\refint\lamdaDemo.dll
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\lamdaDemo.pdb
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\lamdaDemo.genruntimeconfig.cache
+C:\Users\Egurnova\source\repos\lamdaDemo\lamdaDemo\obj\Debug\net6.0\ref\lamdaDemo.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\bin\Debug\net6.0\lamdaDemo.exe
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\bin\Debug\net6.0\lamdaDemo.deps.json
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\bin\Debug\net6.0\lamdaDemo.runtimeconfig.json
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\bin\Debug\net6.0\lamdaDemo.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\bin\Debug\net6.0\lamdaDemo.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\lamdaDemo.csproj.AssemblyReference.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\lamdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\lamdaDemo.AssemblyInfoInputs.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\lamdaDemo.AssemblyInfo.cs
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\lamdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\lamdaDemo.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\refint\lamdaDemo.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\lamdaDemo.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\lamdaDemo.genruntimeconfig.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\ООП\Примеры\lamdaDemo\obj\Debug\net6.0\ref\lamdaDemo.dll

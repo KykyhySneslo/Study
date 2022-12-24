@@ -1,0 +1,60 @@
+﻿<Window x:Class="PracticWork12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticWork12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <UserControl>
+        <UserControl.Resources>
+            <Image x:Key="Bold" Source="/icons/bold_format_editor_tool_icon_146015.png" />
+            <Image x:Key="Italic" Source="/icons/italic_em_emphasis_format_editor_tool_icon_145968.png" />
+            <Image x:Key="Save" Source="/icons/savetheapplication_guardar_2958.png" />
+            <Image x:Key="Success" Source="/icons/success_win_done_mark_icon_145928.png" />
+            <Image x:Key="Trash" Source="/icons/trash_remove_icon_145922.png" />
+            <Image x:Key="Underline" Source="/icons/underline_format_editor_tool_icon_145920.png" />
+        </UserControl.Resources>
+        <DockPanel>
+            <StackPanel DockPanel.Dock="Top">
+                <Menu>
+                    <MenuItem Header="File">
+                        <MenuItem x:Name="newFileMenuItem" Header="New" Click="newFileMenuItem_Click"></MenuItem>
+                        <MenuItem x:Name="MenuOpen" Header="Open" Click="MenuOpen_Click"></MenuItem>
+                        <MenuItem x:Name="MenuSave" Header="Save" Click="MenuSave_Click"></MenuItem>
+                        <MenuItem x:Name="MenuDelete" Header="Delete" Click="MenuDelete_Click"></MenuItem>                  
+                    </MenuItem>
+                    <MenuItem Header="Sample">
+                        <MenuItem Header="Create"></MenuItem>
+                        <MenuItem Header="Load"></MenuItem>
+                    </MenuItem>
+                    <MenuItem Header="About">
+                        <MenuItem Header="About program"></MenuItem>
+                        <MenuItem Header="About autors"></MenuItem>
+                    </MenuItem>
+                </Menu>
+                <WrapPanel Height="20">
+                    <ToggleButton Name="ItalicButton" Click="ItalicButton_Click" Content="{StaticResource Italic}"></ToggleButton>
+                    <ToggleButton Name="BoldButton" Click="BoldButton_Click" Content="{StaticResource Bold}"></ToggleButton>
+                    <ToggleButton Name="UnderLineButton" Click="UnderlineButton_Click" Content="{StaticResource Underline}"></ToggleButton>
+                </WrapPanel>
+            </StackPanel>
+            <StatusBar DockPanel.Dock="Bottom">
+                <StatusBarItem Padding="10, 0, 10, 0">
+                    <TextBlock Name="tb_status" Text="Статус документа"></TextBlock>
+                </StatusBarItem>
+                <StatusBarItem HorizontalAlignment="Right">
+                    <TextBlock x:Name="tb_size" Text="Размер файла" ></TextBlock>
+                </StatusBarItem>
+                <StatusBarItem Padding="10, 0, 10, 0">
+                    <TextBlock x:Name="tb_date" Text="Дата последнего изменения"></TextBlock>
+                </StatusBarItem>
+                <StatusBarItem>
+                    <TextBlock Name="NeedSave"/>
+                </StatusBarItem>
+            </StatusBar>
+            <ListBox DockPanel.Dock="Left" Width="200" x:Name="ListBox" SelectionChanged="ListBox_SelectionChanged"></ListBox>
+            <TextBox x:Name ="textBox" AcceptsReturn="True" AcceptsTab="True" SpellCheck.IsEnabled="True" Language="ru-ru" TextChanged="textBox_TextChanged"></TextBox>
+        </DockPanel>
+    </UserControl>
+</Window>

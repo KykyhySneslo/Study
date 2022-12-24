@@ -1,0 +1,14 @@
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\OOPDemo2\OOPDemo2\obj\Debug\OOPDemo2.csprojResolveAssemblyReference.cache
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\OOPDemo2\OOPDemo2\bin\Debug\OOPDemo2.exe.config
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\OOPDemo2\OOPDemo2\bin\Debug\OOPDemo2.exe
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\OOPDemo2\OOPDemo2\bin\Debug\OOPDemo2.pdb
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\OOPDemo2\OOPDemo2\obj\Debug\OOPDemo2.exe
+\\192.168.101.2\shared_profiles$\Egurnova\Documents\SharpDevelop Projects\OOPDemo2\OOPDemo2\obj\Debug\OOPDemo2.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\2 ООП\Примеры\OOPDemo2\OOPDemo2\bin\Debug\OOPDemo2.exe.config
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\2 ООП\Примеры\OOPDemo2\OOPDemo2\bin\Debug\OOPDemo2.exe
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\2 ООП\Примеры\OOPDemo2\OOPDemo2\bin\Debug\OOPDemo2.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\2 ООП\Примеры\OOPDemo2\OOPDemo2\obj\Debug\OOPDemo2.csproj.AssemblyReference.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\2 ООП\Примеры\OOPDemo2\OOPDemo2\obj\Debug\OOPDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\2 ООП\Примеры\OOPDemo2\OOPDemo2\obj\Debug\OOPDemo2.csproj.CoreCompileInputs.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\2 ООП\Примеры\OOPDemo2\OOPDemo2\obj\Debug\OOPDemo2.exe
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\МДК 01.01 Разработка программных модулей (С#, Егурнова Е.Н.)\2 ООП\Примеры\OOPDemo2\OOPDemo2\obj\Debug\OOPDemo2.pdb

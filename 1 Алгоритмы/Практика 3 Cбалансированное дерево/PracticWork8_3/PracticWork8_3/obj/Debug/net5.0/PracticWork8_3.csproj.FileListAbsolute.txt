@@ -1,0 +1,16 @@
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\bin\Debug\net5.0\PracticWork8_3.exe
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\bin\Debug\net5.0\PracticWork8_3.deps.json
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\bin\Debug\net5.0\PracticWork8_3.runtimeconfig.json
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\bin\Debug\net5.0\PracticWork8_3.runtimeconfig.dev.json
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\bin\Debug\net5.0\PracticWork8_3.dll
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\bin\Debug\net5.0\PracticWork8_3.pdb
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\PracticWork8_3.csproj.AssemblyReference.cache
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\PracticWork8_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\PracticWork8_3.AssemblyInfoInputs.cache
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\PracticWork8_3.AssemblyInfo.cs
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\PracticWork8_3.csproj.CoreCompileInputs.cache
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\PracticWork8_3.dll
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\refint\PracticWork8_3.dll
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\PracticWork8_3.pdb
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\PracticWork8_3.genruntimeconfig.cache
+C:\Users\KykyhySneslo\source\repos\PracticWork8_3\PracticWork8_3\obj\Debug\net5.0\ref\PracticWork8_3.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pr_2_rekursia/1.0.0": {
+        "runtime": {
+          "Pr_2_rekursia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pr_2_rekursia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

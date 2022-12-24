@@ -1,0 +1,16 @@
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\bin\Debug\PracticWork11.exe.config
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\bin\Debug\PracticWork11.exe
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\bin\Debug\PracticWork11.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11.csproj.AssemblyReference.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11.csproj.SuggestedBindingRedirects.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\MainWindow.g.cs
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\App.g.cs
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11_MarkupCompile.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11_MarkupCompile.lref
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\MainWindow.baml
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11.g.resources
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11.Properties.Resources.resources
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11.csproj.GenerateResource.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11.csproj.CoreCompileInputs.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11.exe
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\Projects\УЧЁБА\PracticWork11\PracticWork11\obj\Debug\PracticWork11.pdb

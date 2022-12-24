@@ -1,0 +1,16 @@
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\bin\Debug\net5.0\Pr_2_rekursia.exe
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\bin\Debug\net5.0\Pr_2_rekursia.deps.json
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\bin\Debug\net5.0\Pr_2_rekursia.runtimeconfig.json
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\bin\Debug\net5.0\Pr_2_rekursia.runtimeconfig.dev.json
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\bin\Debug\net5.0\Pr_2_rekursia.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\bin\Debug\net5.0\Pr_2_rekursia.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\Pr_2_rekursia.csproj.AssemblyReference.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\Pr_2_rekursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\Pr_2_rekursia.AssemblyInfoInputs.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\Pr_2_rekursia.AssemblyInfo.cs
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\Pr_2_rekursia.csproj.CoreCompileInputs.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\Pr_2_rekursia.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\refint\Pr_2_rekursia.dll
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\Pr_2_rekursia.pdb
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\Pr_2_rekursia.genruntimeconfig.cache
+C:\Users\KykyhySneslo\OneDrive\Рабочий стол\ABVGD\Pr_2_rekursia\Pr_2_rekursia\obj\Debug\net5.0\ref\Pr_2_rekursia.dll
